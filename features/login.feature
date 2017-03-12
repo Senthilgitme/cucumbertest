@@ -10,4 +10,4 @@ Feature: Access automationpractice website
     Then verify userpage load sucessfully
     Examples:
       | username | password |
-      | digiumdsmb@gmail.com | autotest123 |
+      | digiumdsmb@gmail.com | autotest12345 |
